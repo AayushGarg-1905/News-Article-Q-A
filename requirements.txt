@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+transformers
+torch
+faiss-cpu
+python-dotenv
+unstructured 
+libmagic 
+python-magic 
+python-magic-bin
+dotenv
+pickle
